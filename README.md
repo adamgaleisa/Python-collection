@@ -6,9 +6,9 @@ you are processin plane seat reservations, The plan has N rows of seats, numbere
 there are ten seats in each raw labelled from A to K with letter I omitted) as shown below
 
 
-##  "    A B C    D E F G    H J K  "
-##  " 1  | | |    | | | |    | | |  "
-##  " 2  | | |    | | | |    | | |  "
+##      A B C    D E F G    H J K  
+##   1  |&nbsp;|&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;| &nbsp;|&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;|&nbsp;|  
+##   2  |&nbsp;|&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;| &nbsp;|&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;|&nbsp;| 
    
 Some of the seats are already reserved, the list of reserved seats is given as string S(of length M) containing seat numbers 
 separated by single spaces : for example "1A 3C 2B 40G 5A", the reserved seats can be listed in S in any order.
