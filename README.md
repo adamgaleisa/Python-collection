@@ -6,7 +6,7 @@ you are processin plane seat reservations, The plan has N rows of seats, numbere
 there are ten seats in each raw labelled from A to K with letter I omitted) as shown below
 
 
-##      A B C    D E F G    H J K  
+##      A&nbsp;B&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;D E F G&nbsp;&nbsp;&nbsp;&nbsp;H&nbsp;J&nbsp;K  
 ##   1  |&nbsp;|&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;| &nbsp;|&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;|&nbsp;|  
 ##   2  |&nbsp;|&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;| &nbsp;|&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;|&nbsp;| 
    
