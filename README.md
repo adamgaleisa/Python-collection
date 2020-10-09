@@ -41,4 +41,13 @@ your task is to calculate how many weeks you will spend in your dreamed vacation
 if the function is given:
 Y = 2014, A="April", B="May", and W= "Wedensday", the function should return 7
 
+## 3) Hash Iterator
+
+two inputs, **a salt** and **an integer X**, and generates a 
+**10-character string** over the course of a large number of iterations.
+how to run 
+
+#### echo "machine-learning,4" >/tmp/input_file.txt
+#### ./hash_iterator.py </tmp/input_file.txt
+
 
